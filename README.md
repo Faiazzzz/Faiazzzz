@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This repository contains my personal projects, data analysis work, and experiments while learning and building.
+Here, I share my personal projects, data analysis work, and experiments while learning and building.
 
 ## What you'll find here
 
