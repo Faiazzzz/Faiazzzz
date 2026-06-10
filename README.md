@@ -1,4 +1,4 @@
-## Hi there 👋
+## I try to do cool sutff
 
 <!--
 **Faiazzzz/Faiazzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 Here, I share my personal projects, data analysis work, and experiments while learning and building.
 
 ## What you'll find here
@@ -28,3 +28,4 @@ Here, I share my personal projects, data analysis work, and experiments while le
 - Data analysis
 - Visualization
 - Problem solving
+-->
