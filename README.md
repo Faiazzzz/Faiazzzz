@@ -1,4 +1,4 @@
-## I try to do cool sutff
+## I try to do  sutff
 
 <!--
 **Faiazzzz/Faiazzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
